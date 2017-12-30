@@ -1,0 +1,45 @@
+.jumbotron{
+    background-image: url("../img/bg1.jpg");
+    
+    background-repeat: no-repeat;
+    height: 50%;
+    width: 100%;
+    padding-bottom: 17%;
+    color: aliceblue;
+    background-attachment: fixed;
+    margin-bottom: 10px;
+    
+}
+.form-group{
+color: rgb(95, 95, 100);
+
+}
+.card-title{
+    color: rgb(95, 95, 100);
+}
+.form-check-label{
+    color: rgb(95, 95, 100);
+}
+.card-header{
+    color: rgb(95, 95, 100);
+}
+.loca{
+    margin-left: 690px;
+}
+.img-info{
+   
+
+    height: 310px;
+    transition: opacity .5s ease-in-out;
+    
+}
+.img-info:hover{
+   
+    opacity: .5;
+    
+}
+.card-group{
+   
+    margin-bottom: 10px;
+
+}
